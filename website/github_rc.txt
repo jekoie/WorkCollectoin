@@ -1,0 +1,23 @@
+1. PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5   https://github.com/PyQt5/PyQt
+
+2. MySQL入门教程（MySQL tutorial book） https://github.com/jaywcjlove/mysql-tutorial
+
+3.open source tutorial & information collector for hackintosh installation.  https://github.comhuangyz0918/Hackintosh-Installer-University
+
+4.分享整理一些黑苹果Clover驱动配置文件 https://github.com/tsingui/clover-efi
+
+5.《Python Parallel Programming Cookbook》中文版  https://github.com/laixintao/python-parallel-programming-cookbook-cn
+
+6.《Django By Example》个人翻译 https://github.com/Django-By-Example-ZH/Django-By-Example-ZH
+
+7.A curated list of awesome Python frameworks, libraries, software and resources  https://github.com/vinta/awesome-python
+
+8.使用Python进行数据分析实验工具NumPy、Pandas、Matplotlib、Scikit-learn的入门介绍，使用IPython Notebook格式 
+https://github.com/jasonding1354/pyDataScienceToolkits_Base
+
+9.A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档 https://github.com/cycleuser/Kivy-CN
+
+10.经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+https://github.com/jobbole/awesome-programming-books
+
+11.a web proxy tool https://github.com/XX-net/XX-Net
