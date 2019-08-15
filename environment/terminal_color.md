@@ -1,3 +1,4 @@
+```shell
 #touch  ~/.bash_profile
 #copy follow content to the file
 
@@ -29,3 +30,6 @@ export LESS_TERMCAP_ZV=$(tput rsubm)
 export LESS_TERMCAP_ZO=$(tput ssupm)
 export LESS_TERMCAP_ZW=$(tput rsupm)
 
+
+
+```
