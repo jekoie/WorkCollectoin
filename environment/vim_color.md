@@ -1,3 +1,4 @@
+```vim
 "work on osx or linux system
 "touch ~/.vimrc
 "paste the follow content to vimrc file;
@@ -23,3 +24,5 @@ syntax on
 set autoindent
 set noexpandtab
 colorscheme slate
+
+```

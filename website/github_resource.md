@@ -1,0 +1,12 @@
+- [ `PyQt Examples（PyQt各种测试和例子）`](https://github.com/PyQt5/PyQt)
+- [`MySQL入门教程`](https://github.com/jaywcjlove/mysql-tutorial)
+- [`information collector for hackintosh installation`](https://github.com/huangyz0918/Hackintosh-Installer-University)
+- [`分享整理一些黑苹果Clover驱动配置文件`](https://github.com/tsingui/clover-efi)
+- [`《Python Parallel Programming Cookbook》中文版`]( https://github.com/laixintao/python-parallel-programming-cookbook-cn)
+- [`《Django By Example》个人翻译`](https://github.com/Django-By-Example-ZH/Django-By-Example-ZH)
+- [`awesome-python`](https://github.com/vinta/awesome-python)
+- [`使用Python进行数据分析实验工具NumPy、Pandas、Matplotlib、Scikit-learn的入门介绍`](https://github.com/jasonding1354/pyDataScienceToolkits_Base)
+- [`中文翻译Kivy开发文档`](https://github.com/cycleuser/Kivy-CN)
+- [`经典编程书籍大全`](https://github.com/jobbole/awesome-programming-books)
+- [`XX-NET`](https://github.com/XX-net/XX-Net)
+
