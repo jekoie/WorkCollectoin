@@ -9,4 +9,5 @@
 - [`中文翻译Kivy开发文档`](https://github.com/cycleuser/Kivy-CN)
 - [`经典编程书籍大全`](https://github.com/jobbole/awesome-programming-books)
 - [`XX-NET`](https://github.com/XX-net/XX-Net)
-- [Flash OS images to SD cards & USB drives, safely and easily](https://github.com/balena-io/etcher)
+- [`1Flash OS images to SD cards & USB drives, safely and easily`](https://github.com/balena-io/etcher)
+- [`Chinese Manual Pages`](https://github.com/man-pages-zh/manpages-zh)
