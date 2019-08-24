@@ -10,4 +10,7 @@
 - [`经典编程书籍大全`](https://github.com/jobbole/awesome-programming-books)
 - [`XX-NET`](https://github.com/XX-net/XX-Net)
 - [`1Flash OS images to SD cards & USB drives, safely and easily`](https://github.com/balena-io/etcher)
-- [`Chinese Manual Pages`](https://github.com/man-pages-zh/manpages-zh)
+- [Man Page Chinese Manual Pages](https://github.com/man-pages-zh/manpages-zh)
+- [`aria2 开源下载工具`](https://github.com/aria2/aria2)
+- [`aria2 webgui`](https://github.com/ziahamza/webui-aria2)
+- [`Greasy Fork，这里是一个提供用户脚本的网站`](https://greasyfork.org/zh-CN)
