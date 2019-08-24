@@ -14,3 +14,4 @@
 - [`aria2 开源下载工具`](https://github.com/aria2/aria2)
 - [`aria2 webgui`](https://github.com/ziahamza/webui-aria2)
 - [`Greasy Fork，这里是一个提供用户脚本的网站`](https://greasyfork.org/zh-CN)
+- [`ssl key gen`](https://github.com/FiloSottile/mkcert)
