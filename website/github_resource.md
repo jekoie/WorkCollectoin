@@ -15,3 +15,5 @@
 - [`aria2 webgui`](https://github.com/ziahamza/webui-aria2)
 - [`Greasy Fork，这里是一个提供用户脚本的网站`](https://greasyfork.org/zh-CN)
 - [`ssl key gen`](https://github.com/FiloSottile/mkcert)
+- [`shadownsocksr sever installer`](https://github.com/jwchenzju/teddysunss)
+- [`shadownsocksr windows client`](https://github.com/shadowsocksr-backup/shadowsocksr-csharp)
